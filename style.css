@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background: linear-gradient( #4287f5 0%,#4bf542 100%);
+}
+#About{
+    color:darkviolet;  
+}
+.menu{
+    text-align:right;
+}
